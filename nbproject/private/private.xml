@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/src/java/controller/PrintBillServlet.java</file>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/web/bill.jsp</file>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/web/viewReservations.jsp</file>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/web/addReservation.jsp</file>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/src/java/controller/EditReservationServlet.java</file>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/src/java/controller/UpdateReservationServlet.java</file>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/src/java/model/RoomRateFactory.java</file>
+            <file>file:/S:/TOPUP%20Modules/TOPUP%20Modules/CIS-6003%20-%20Advanced%20Programming/Current/Project/RoomReservationSystem/src/java/service/BillingService.java</file>
+        </group>
     </open-files>
 </project-private>
